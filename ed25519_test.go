@@ -15,8 +15,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cbluth/ed25519/edwards25519"
-	// "github.com/agl/ed25519/edwards25519"
+	// "github.com/cbluth/ed25519/edwards25519"
+	"github.com/agl/ed25519/edwards25519"
 )
 
 type zeroReader struct{}
